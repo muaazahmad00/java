@@ -1,6 +1,5 @@
-# java
-<<<<<<< HEAD
-***Java Program Assignments***
+
+#***Java Program Assignments***
 
 ***Assignment # 1***
 
